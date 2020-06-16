@@ -1,5 +1,8 @@
 # EditorConfig: a universal project-level configuration file for text editors & IDEs
 # Download your plugin at https://editorconfig.org/#download
+#
+# This list is maintained at https://gitlab.com/0x326/editorconfig
+# and released into the public domain (See https://gitlab.com/0x326/editorconfig/-/blob/master/LICENSE)
 
 root = true
 
