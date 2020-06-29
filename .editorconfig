@@ -89,6 +89,9 @@ indent_size = 4
 [*.tex]
 indent_size = 4
 
+[*.lp]
+indent_size = 4
+
 [{.tmux.conf,.tmux.conf.local}]
 indent_size = 2
 
