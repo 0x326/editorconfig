@@ -3,6 +3,9 @@
 #
 # This list is maintained at https://gitlab.com/0x326/editorconfig
 # and released into the public domain (See https://gitlab.com/0x326/editorconfig/-/blob/master/LICENSE)
+# To update this file, run:
+#
+#     wget https://gitlab.com/0x326/editorconfig/-/raw/master/.editorconfig -O .editorconfig
 
 root = true
 
