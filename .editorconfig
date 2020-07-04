@@ -98,6 +98,9 @@ indent_style = tab
 [*.lp]
 indent_size = 4
 
+[*.dot]
+indent_size = 4
+
 [{.tmux.conf,.tmux.conf.local}]
 indent_size = 2
 
