@@ -95,6 +95,7 @@ indent_size = 4
 [*.bib]
 indent_style = tab
 
+# clingo (https://potassco.org/clingo/)
 [*.lp]
 indent_size = 4
 
